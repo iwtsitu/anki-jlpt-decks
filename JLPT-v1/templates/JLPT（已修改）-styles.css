@@ -1,0 +1,84 @@
+</style>
+<style>
+.card {
+  font-family     : Hiragino Mincho ProN;
+  text-align      : left;
+  background-color: #FAF9DE;
+}
+.card.nightMode {
+  background-color: #2B2B2B;
+}
+.section {
+  border       : 1px solid;
+  border-color : #C7C7C7;
+  border-radius: 10px;
+  position     : relative;
+  margin       : 2px 0;
+}
+.nightMode .section {
+  border-color: #666666;
+}
+.level{
+  color      : #808080;
+  margin     : 0 0 0 5px;
+  font-size  : 15px;
+  font-weight: bold;
+}
+.expression{
+  font-size    : 35px;
+  font-weight  : bold; 
+  text-align   : center; 
+  margin       : 10px 0 0 0;	
+}
+.phonetic{
+  margin    : 5px 0 5px 0;
+  text-align: center;
+}
+.horizontal-line {
+  border-top  : 1px solid;
+  border-color: #C7C7C7;
+  margin      : 0 5px 0 5px;
+  position    : relative;
+}
+.nightMode .horizontal-line {
+  border-color: #666666;
+}
+.intonation{
+  font-size: 25px;
+  margin   : 5px 0 0 15px;
+}
+.translation{
+  font-size  : 20px;
+  margin     : 5px 5px 0 6px;
+  line-height: 1.5em;
+}
+.example{
+  font-size  : 20px;
+  margin     : 6px 5px 5px 6px;
+  line-height: 1.9em;
+}
+.dictionary{
+  font-size: 19px;
+  margin   : 5px 0 0 5px;
+}
+.replay-button svg {
+  width : 30px;
+  height: 30px;
+}
+.replay-button svg circle {
+  stroke      : #555;
+  fill        : #FAF9DE;
+  stroke-width: 2.5px;
+}
+.replay-button svg path {
+  stroke: #FFFFFF;
+  fill  : #555;
+}
+.nightMode .replay-button svg circle {
+  stroke: #FFFFFF;
+  fill  : #2B2B2B;
+}
+.nightMode .replay-button svg path {
+  stroke: #2B2B2B;
+  fill  : #FFFFFF
+}

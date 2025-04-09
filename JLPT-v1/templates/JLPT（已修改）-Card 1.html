@@ -1,0 +1,45 @@
+<header class="level">{{级别}}</header>
+<section class="section">
+  <div class="expression">{{书写法}}</div>
+  <div class="phonetic">{{发音}}</div>
+</section>
+<footer class="dictionary">
+  <a href="mojisho://?search={{书写法}}" onclick="removePrefixAndSuffix()">🔍</a>
+<script>
+function removePrefixAndSuffix() {
+let writing = "{{书写法}}";
+writing = writing.replace(/\［[0-9]\］$/, "");
+if (writing.startsWith("～")) {
+writing = writing.substring(1);
+}
+let link = document.querySelector('a[href="mojisho://?search={{书写法}}"]');
+link.href = `mojisho://?search=${writing}`;
+}
+</script>
+</footer>
+
+
+<header class="level">{{级别}}</header>
+<section class="section">
+  <div class="expression">{{书写法}}</div>
+  <div class="phonetic">{{发音}}</div>
+  <div class="horizontal-line"></div>
+  <div class="intonation">{{读法}} {{声调}}</div>
+  <div class="translation">［{{词性}}］{{汉语翻译}}</div>
+  <div class="example">{{furigana:例句}}</div>
+</section>
+<footer class="dictionary">
+  <a href="mojisho://?search={{书写法}}" onclick="removePrefixAndSuffix()">🔍</a>
+<script>
+function removePrefixAndSuffix() {
+let writing = "{{书写法}}";
+writing = writing.replace(/\［[0-9]\］$/, "");
+if (writing.startsWith("～")) {
+writing = writing.substring(1);
+}
+let link = document.querySelector('a[href="mojisho://?search={{书写法}}"]');
+link.href = `mojisho://?search=${writing}`;
+}
+</script>
+</footer>
+
