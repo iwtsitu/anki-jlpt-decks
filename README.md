@@ -560,7 +560,7 @@ tts: {
 
 > 默认为关闭，可自行开启。
 
-![预览图](https://pub-90b0b2afa26447b8b824c3d05d8e274f.r2.dev/uPic/20250311FpJaMP.png)  
+开启／关闭方法：  
 
 <details>
 <summary>点击展开／折叠</summary>
