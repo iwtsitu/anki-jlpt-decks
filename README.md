@@ -256,7 +256,7 @@
 
 - **卡片正面的单词上有假名标注**
 
-  本卡组仅针对「[常用漢字表](https://www.bunka.go.jp/kokugo_nihongo/sisaku/joho/joho/kijun/naikaku/pdf/joyokanjihyo_20101130.pdf)」范围外，或仅看汉字难以确定读音的词汇添加了假名标注，并非所有单词均有。一般情况下无需隐藏；如需隐藏，请参考相应的高级选项。
+  本卡组仅针对「[常用漢字表](https://www.bunka.go.jp/kokugo_nihongo/sisaku/joho/joho/kijun/naikaku/pdf/joyokanjihyo_20101130.pdf)」范围外的词汇添加了假名标注，并非所有单词都有，一般情况下无需隐藏；如需隐藏，请参考高级选项中的相应设置。
 
 ------
 
