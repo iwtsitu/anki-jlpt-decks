@@ -35,33 +35,33 @@
 
 ### 单词
 
-* **总词汇量**：约 14,600 个。
+- **总词汇量**：约 14,600 个。
 
-  * JLPT N1～N5 单词：约 12,500 个（`25.05.19` 版本新增约 2000 个）。
+  - JLPT N1～N5 单词：约 12,500 个（`25.05.19` 版本新增约 2000 个）。
 
-  * 补充词汇（非 JLPT）：约 2,100 个，统一归入「N1-补充」。
+  - 补充词汇（非 JLPT）：约 2,100 个，统一归入「N1-补充」。
 
-* **N3 以上单词的分类**：
+- **N3 以上单词的分类**：
 
-  * **必考**：出现频率高且重要的单词。
+  - **必考**：出现频率高且重要的单词。
 
-  * **核心**：基础但在常见场景中出现频率相对较低的单词。
+  - **核心**：基础但在常见场景中出现频率相对较低的单词。
 
 > 以上等级和分类仅供参考，如发现明显不符的词汇，欢迎反馈。
 
----
+------
 
 ### 例句
 
-* 每个单词至少提供一个例句。
+- 每个单词至少提供一个例句。
 
-* **例句高亮说明**：
+- **例句高亮说明**：
 
-  * **黄色**：当前单词
+  - **黄色**：当前单词
 
-  * **绿色**：同义／关联词
+  - **绿色**：同义／关联词
 
-  * **蓝色**：反义词
+  - **蓝色**：反义词
 
 > 已变形的单词仅高亮词干部分。
 
@@ -69,17 +69,17 @@
 
 ### 音频
 
-* **单词音频**：大部分为真人播音员录制。
+- **单词音频**：大部分为真人播音员录制。
 
-* **例句音频**：采用 [VOICEPEAK](https://www.ah-soft.com/voice/6nare/index.html) 软件生成的高质量机器语音，已进行人工校对。
+- **例句音频**：采用 [VOICEPEAK](https://www.ah-soft.com/voice/6nare/index.html) 软件生成的高质量机器语音，已进行人工校对。
 
-* **音频按钮说明**：
+- **音频按钮说明**：
 
-  * **黑白 ▶️**：卡组自带本地音频。
+  - **黑白 ▶️**：卡组自带本地音频。
 
-  * **紫色 ▶️**：自动生成的在线音频（无需反馈相关错误）。
+  - **紫色 ▶️**：自动生成的在线音频（无需反馈相关错误）。
 
----
+------
 
 ### 卡片标签及含义说明
 
@@ -99,102 +99,102 @@
 
 </details>
 
----
+------
 
 ## 如何使用
 
 0. **使用说明与推荐插件**
 
-* Anki 官方使用手册：[简体中文](https://open-spaced-repetition.github.io/anki-manual-zh-CN/intro.html) ｜ [English](https://docs.ankiweb.net/)
+  - Anki 官方使用手册：[简体中文](https://open-spaced-repetition.github.io/anki-manual-zh-CN/intro.html) ｜ [English](https://docs.ankiweb.net/)
+   
+  - 卡组迁移学习记录插件（仅桌面端）：[Transfer Scheduling Info Advanced](https://ankiweb.net/shared/info/1249258442)
+   
+  - 更新卡组时保护自定义字段内容插件（仅桌面端）：[Special Fields](https://ankiweb.net/shared/info/1102281552)
 
-* 卡组迁移学习记录插件（仅桌面端）：[Transfer Scheduling Info Advanced](https://ankiweb.net/shared/info/1249258442)
-
-* 更新卡组时保护自定义字段内容插件（仅桌面端）：[Special Fields](https://ankiweb.net/shared/info/1102281552)
-
----
+------
 
 1. **安装 Anki**
 
-* **Windows／macOS／Linux：Anki**
+  - Windows／macOS／Linux：Anki
 
-  [AnkiWeb 官网](https://apps.ankiweb.net/) ｜ [GitHub](https://github.com/ankitects/anki/releases/latest) ｜ [GitHub（中国大陆加速）](https://gh-proxy.com/github.com/ankitects/anki/releases/latest)
+    [AnkiWeb 官网](https://apps.ankiweb.net/) ｜ [GitHub](https://github.com/ankitects/anki/releases/latest) ｜ [GitHub（中国大陆加速）](https://gh-proxy.com/github.com/ankitects/anki/releases/latest)
 
-* **iOS／iPadOS：AnkiMobile Flashcards**
+  - iOS／iPadOS：AnkiMobile Flashcards
 
-  [App Store 下载](https://apps.apple.com/jp/app/ankimobile-flashcards/id373493387)
+    [App Store](https://apps.apple.com/jp/app/ankimobile-flashcards/id373493387)
 
-  > ⚠️ 需付费，价格约为 24.99美元／168人民币／4000日元／790新台幣／188港幣。
+    > ⚠️ 需付费，价格约为 24.99美元／168人民币／4000日元／790新台幣／188港幣。
 
-* **Android：AnkiDroid**
+  - Android：AnkiDroid
 
-  [Play Store](https://play.google.com/store/apps/details?id=com.ichi2.anki) ｜ [GitHub](https://github.com/ankidroid/Anki-Android/releases/latest) ｜ [GitHub 加速下载（中国大陆）](https://gh-proxy.com/github.com/ankidroid/Anki-Android/releases/latest)
+    [Play Store](https://play.google.com/store/apps/details?id=com.ichi2.anki) ｜ [GitHub](https://github.com/ankidroid/Anki-Android/releases/latest) ｜ [GitHub（中国大陆加速）](https://gh-proxy.com/github.com/ankidroid/Anki-Android/releases/latest)
 
-  > ⚠️ 请勿使用由「Anki 中国」提供的 AnkiDroid（v2.16.0beta2），存在兼容性问题！
+    > ⚠️ 请勿使用由「Anki 中国」提供的 AnkiDroid（v2.16.0beta2），存在兼容性问题！
 
----
+------
 
 2. **下载卡组**
 
-前往 [Releases 页面](https://github.com/5mdld/anki-jlpt-decks/releases) 下载最新稳定版（Latest）的 `.apkg` 文件（**注意：不要下载 `zip` 文件**）。也可通过以下链接直接下载：
+   前往 [Releases 页面](https://github.com/5mdld/anki-jlpt-decks/releases) 下载最新稳定版（Latest）的 `.apkg` 文件（**注意：不要下载 `zip` 文件**）。也可通过以下链接直接下载：
 
-* [下载地址 1（GitHub）](https://github.com/5mdld/anki-jlpt-decks/releases/latest/download/NEW-JLPT.apkg)
+  - [下载地址 1（GitHub）](https://github.com/5mdld/anki-jlpt-decks/releases/latest/download/NEW-JLPT.apkg)
+   
+  - [下载地址 2（中国大陆加速）](https://gh-proxy.com/github.com/5mdld/anki-jlpt-decks/releases/latest/download/NEW-JLPT.apkg)
 
-* [下载地址 2（中国大陆加速）](https://gh-proxy.com/github.com/5mdld/anki-jlpt-decks/releases/latest/download/NEW-JLPT.apkg)
-
----
+------
 
 3. **导入卡组**
 
-* 打开 Anki，将下载的 `.apkg` 文件导入。
-
-* **首次导入**时，建议将「导入所有牌组预设配置」选项设置为 `打开`（如下图绿框所示），以应用本卡组提供的优化预设（名为「NEW-JLPT」）。
-
-  > ⚠️ 受限于 Anki 本身的机制，部分预设无法自动导入，请参阅后续的「4. 修改牌组选项」手动调整。
+  - 打开 Anki，将下载的 `.apkg` 文件导入。
+   
+  - **首次导入**时，建议将「导入所有牌组预设配置」选项设置为 `打开`（如下图绿框所示），以应用本卡组提供的优化预设（名为「NEW-JLPT」）。
+    
+    > ⚠️ 受限于 Anki 本身的机制，部分预设无法自动导入，请参阅后续的「4. 修改牌组选项」手动调整。
 
 ![导入选项](https://pub-90b0b2afa26447b8b824c3d05d8e274f.r2.dev/uPic/20250527Mzfbc2.png)
 
----
+------
 
 4. **修改牌组选项**
 
-> 🎬 牌组选项位置视频教程：[Android](https://pub-90b0b2afa26447b8b824c3d05d8e274f.r2.dev/uPic/20250314Wwzrtj.mp4) ｜ [iOS](https://pub-90b0b2afa26447b8b824c3d05d8e274f.r2.dev/uPic/202503144dcecY.mp4) ｜ [macOS／Windows](https://pub-90b0b2afa26447b8b824c3d05d8e274f.r2.dev/uPic/20250314s2AMCN.mp4)
+   > 🎬 牌组选项位置视频教程：[Android](https://pub-90b0b2afa26447b8b824c3d05d8e274f.r2.dev/uPic/20250314Wwzrtj.mp4) ｜ [iOS](https://pub-90b0b2afa26447b8b824c3d05d8e274f.r2.dev/uPic/202503144dcecY.mp4) ｜ [macOS／Windows](https://pub-90b0b2afa26447b8b824c3d05d8e274f.r2.dev/uPic/20250314s2AMCN.mp4)
 
-请点击 Anki 中牌组旁的 ⚙️ 图标打开牌组选项界面，并参考以下图片进行设置：
+   请点击 Anki 中牌组旁的 ⚙️ 图标打开牌组选项界面，并参考以下图片进行设置：
 
 ![deck options](https://pub-90b0b2afa26447b8b824c3d05d8e274f.r2.dev/uPic/20250314HpoTxy.png)
 
----
+------
 
 5. **开启同步（可选）**
 
-注册并登录 [AnkiWeb 账号](https://ankiweb.net/account/signup)，即可实现多设备间的学习进度同步和云端备份。
+   注册并登录 [AnkiWeb 账号](https://ankiweb.net/account/signup)，即可实现多设备间的学习进度同步和云端备份。
 
----
+------
 
 6. **更新卡组（可选）**
 
-> ⚠️ **更新前务必进行备份！**
+    > ⚠️ **更新前务必进行备份！**
 
-* 为避免频繁更新干扰学习，如无重大 Bug，本卡组稳定版（Latest）一般每 **1 至 2 个月**发布一次；日常的小幅修正则通过预发布版本（Pre-release）不定期推送。
+  - 为避免频繁更新干扰学习，如无重大 Bug，本卡组稳定版（Latest）一般每 **1 至 2 个月**发布一次；日常的小幅修正则通过预发布版本（Pre-release）不定期推送。
 
-* 更新方法：下载最新的 `.apkg` 文件导入 Anki，**不影响学习进度**。
+  - 更新方法：下载最新的 `.apkg` 文件导入 Anki，**不影响学习进度**。
 
-* 导入时，请在 Anki「导入选项」中进行如下设置（如下图红框所示）：
+  - 导入时，请在 Anki「导入选项」中进行如下设置（如下图红框所示）：
 
-  * 「合并笔记模板」设为 `打开`
-  * 「更新笔记」和「更新笔记模板」均设为 `始终`
+    - 「合并笔记模板」设为 `打开`
+    - 「更新笔记」和「更新笔记模板」均设为 `始终`
 
 ![更新选项](https://pub-90b0b2afa26447b8b824c3d05d8e274f.r2.dev/uPic/20250527yrnhsY.png)
 
-* 导入更新卡组会覆盖之前所做的所有自定义修改（如卡片内容、标签等）。
+  - 导入更新卡组会覆盖之前所做的所有自定义修改（如卡片内容、标签等）。
 
   若希望保留个性化修改，请勿直接更新卡组，推荐使用代码仓库中的 `notes.csv` 和 `media` 文件手动比对并解决冲突后再更新。
 
-* 由于 Anki 功能限制，子牌组结构调整及已删除的卡片无法自动同步，需手动管理：
+  - 由于 Anki 功能限制，子牌组结构调整及已删除的卡片无法自动同步，需手动管理：
 
-  * **示例 1**：若发现某卡片位于 `N3-必考` 牌组，但标签却为 `N2-核心`，您可将该卡片手动迁移至 `N2-核心` 牌组。
+    - **示例 1**：若发现某卡片位于 `N3-必考` 牌组，但标签却为 `N2-核心`，您可将该卡片手动迁移至 `N2-核心` 牌组。
 
-  * **示例 2**：若已导入了版本为 `v25.01.01` 的卡组，但部分卡片仍标记旧版本或缺少版本标签，请在 Anki 搜索框中输入：
+    - **示例 2**：若已导入了版本为 `v25.01.01` 的卡组，但部分卡片仍标记旧版本或缺少版本标签，请在 Anki 搜索框中输入：
 
     ```
     deck:NEW-JLPT -tag:NEW-JLPT-v2::v25.01.01
@@ -202,7 +202,7 @@
 
     搜索到的卡片即为新版本已移除的内容，请自行处理（建议删除）。
 
----
+------
 
 ## 常见问题
 
