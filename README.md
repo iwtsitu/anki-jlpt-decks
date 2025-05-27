@@ -17,7 +17,9 @@
 ## 项目介绍
 
 - 本项目是基于 [Anki](https://apps.ankiweb.net/) 制作的日语单词卡组，覆盖 JLPT N1 至 N5 全等级以及部分额外补充词汇，共计约 **14,600 个词条**。每个词条均提供详细释义、例句，以及对应的单词和例句音频，帮助学习者更高效地记忆和理解。
+
 - 卡組支援繁體中文，詳細設定方法請參考 [此處說明](https://github.com/5mdld/anki-jlpt-decks?tab=readme-ov-file#使用繁體中文)。
+
 - 我的其他 Anki 卡组和插件可访问：[AnkiWeb 主页](https://ankiweb.net/shared/by-author/842333142)。
 
 ------
