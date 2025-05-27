@@ -139,7 +139,7 @@
 
    前往 [Releases 页面](https://github.com/5mdld/anki-jlpt-decks/releases) 下载最新稳定版（Latest）的 `.apkg` 文件（**注意：不要下载 `zip` 文件**）。也可通过以下链接直接下载：
 
-  - [下载地址 1（GitHub）](https://github.com/5mdld/anki-jlpt-decks/releases/latest/download/NEW-JLPT.apkg)
+  - [下载地址 1](https://github.com/5mdld/anki-jlpt-decks/releases/latest/download/NEW-JLPT.apkg)
    
   - [下载地址 2（中国大陆加速）](https://gh-proxy.com/github.com/5mdld/anki-jlpt-decks/releases/latest/download/NEW-JLPT.apkg)
 
@@ -190,7 +190,7 @@
 
   - 导入更新卡组会覆盖之前所做的所有自定义修改（如卡片内容、标签等）。
 
-  若希望保留个性化修改，请勿直接更新卡组，推荐使用代码仓库中的 `notes.csv` 和 `media` 文件手动比对并解决冲突后再更新。
+    若希望保留个性化修改，请勿直接更新卡组，推荐使用代码仓库中的 `notes.csv` 和 `media` 文件手动比对并解决冲突后再更新。
 
   - 由于 Anki 功能限制，子牌组结构调整及已删除的卡片无法自动同步，需手动管理：
 
