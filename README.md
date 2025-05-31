@@ -263,7 +263,7 @@
 
 - **卡片正面的单词上有假名标注**
 
-  本卡组仅针对「[常用漢字表](https://www.bunka.go.jp/kokugo_nihongo/sisaku/joho/joho/kijun/naikaku/pdf/joyokanjihyo_20101130.pdf)」范围外的词汇添加了假名标注，并非所有单词都有，一般情况下无需隐藏；如需隐藏，请参考高级选项中的相应设置。
+  本卡组仅针对「[常用漢字表](https://www.bunka.go.jp/kokugo_nihongo/sisaku/joho/joho/kijun/naikaku/pdf/joyokanjihyo_20101130.pdf)」范围外的词汇添加了假名标注，并非所有单词都有，一般情况下无需隐藏；如需隐藏，请参考高级选项中的 [控制正面单词显示模式](https://github.com/5mdld/anki-jlpt-decks?tab=readme-ov-file#%E6%8E%A7%E5%88%B6%E6%AD%A3%E9%9D%A2%E5%8D%95%E8%AF%8D%E6%98%BE%E7%A4%BA%E6%A8%A1%E5%BC%8F)。
 
 ------
 
@@ -377,11 +377,13 @@ playback: 'force',    // 背面播放设置: 'default' 为使用系统设置；'
 
 ### 隐藏指定字段
 
-如果想在正面隐藏某些字段，可在 `{{ ... }}` 前加上 `hint:`，例如想隐藏正面的 `VocabKanji`：
+如果想在正面隐藏某个指定字段，可以在该字段 `{{ ... }}` 前加上 `hint:`。例如，若要隐藏正面的 `SentFurigana` 字段：
 
 ```html
-<span lang="ja">{{ hint:furigana:VocabKanji }}</span>
+<span lang="ja">{{ hint:SentFurigana }}</span>
 ```
+
+如需隐藏正面单词汉字上方的注音假名，请参阅下一项。
 
 ------
 
