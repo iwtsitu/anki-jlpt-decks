@@ -4,7 +4,7 @@
 
 - ### **本卡组在 GitHub 和 AnkiWeb 上永久免费更新。闲鱼等平台的付费版本均为盗卖，请勿购买！**
 
-- 如果您希望表示支持，可以购买 iOS 版 AnkiMobile，或向 FSRS 算法作者叶峻峣捐赠（[GitHub Sponsors](https://github.com/sponsors/L-M-Sherlock) ｜ [ko-fi](https://ko-fi.com/jarrettye) ｜ [爱发电](https://afdian.com/a/jarrettye)）。他为 Anki 排程算法的优化做出了重要贡献。
+- 如果您希望表示支持，可以购买 iOS 版 AnkiMobile，或向 FSRS 算法作者叶峻峣捐赠（[GitHub Sponsors](https://github.com/sponsors/L-M-Sherlock) ｜ [ko-fi](https://ko-fi.com/jarrettye) ｜ [爱发电](https://afdian.com/a/jarrettye) ）。他为 Anki 排程算法的优化做出了重要贡献。
 
 - 如果您觉得本卡组对学习有所帮助，请在 [AnkiWeb](https://ankiweb.net/shared/info/832276382) **点赞**，或者给本仓库点个 **Star**，您的支持将是我持续更新的最大动力！
 
