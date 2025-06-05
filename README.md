@@ -2,15 +2,15 @@
 
 ## 前言
 
-- ### **本卡组在 GitHub 和 AnkiWeb 上永久免费更新。闲鱼等平台的付费版本均为盗卖，卖家啥也不会，请勿购买！**
+- ### **本卡组在 GitHub 和 AnkiWeb 上永久免费更新。闲鱼等平台的付费版本均为盗卖，请勿购买！**
 
-- 如果您想表达支持，可以捐赠给 FSRS 算法的作者叶峻峣（[GitHub 赞赏](https://github.com/sponsors/L-M-Sherlock) ｜ [买咖啡](https://ko-fi.com/jarrettye) ｜ [爱发电](https://afdian.com/a/jarrettye)），他为 Anki 的排程算法优化做出了重要贡献。
+- 如果您希望表示支持，可以购买 iOS 版 AnkiMobile，或向 FSRS 算法作者叶峻峣捐赠（[GitHub Sponsors](https://github.com/sponsors/L-M-Sherlock) ｜ [ko-fi](https://ko-fi.com/jarrettye) ｜ [爱发电](https://afdian.com/a/jarrettye)）。他为 Anki 排程算法的优化做出了重要贡献。
 
 - 如果您觉得本卡组对学习有所帮助，请在 [AnkiWeb](https://ankiweb.net/shared/info/832276382) **点赞**，或者给本仓库点个 **Star**，您的支持将是我持续更新的最大动力！
 
 - 欢迎加入 Telegram Anki 日语交流群：[点此链接加入](https://t.me/+N7bNc8-BpqJjZmQ1)。
 
-- 欢迎加入基于二语习得理论的日语学习 QQ 群：[点此链接加入](https://qm.qq.com/q/Iy7QuEz5WQ)，或搜索群号 `830058869` 加群。
+- 欢迎加入基于二语习得理论的日语学习 QQ 群：[点此链接加入](https://qm.qq.com/q/Iy7QuEz5WQ)（群号 `830058869`）。
 
 ------
 
@@ -104,7 +104,7 @@
 
 ## 如何使用
 
-0. **一些资源推荐**
+0. **资源推荐**
 
   - Anki 官方使用手册：[简体中文](https://open-spaced-repetition.github.io/anki-manual-zh-CN/intro.html) ｜ [English](https://docs.ankiweb.net/)
    
