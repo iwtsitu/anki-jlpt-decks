@@ -10,8 +10,6 @@
 
 - 欢迎加入 Telegram Anki 日语交流群：[点此链接加入](https://t.me/+N7bNc8-BpqJjZmQ1)。
 
-- 欢迎加入基于二语习得理论的日语学习 QQ 群：[点此链接加入](https://qm.qq.com/q/Iy7QuEz5WQ)（群号 `830058869`）。
-
 ------
 
 ## 项目介绍
@@ -606,6 +604,8 @@ tts: {
 - `uovkm` 的[《综合日语第三版》第一册～第四册单词卡组](https://ankiweb.net/shared/by-author/516873037)。
 
 - `菜鸡` 的[《基于二语习得理论的日语学习指南》](https://eaa9gdwuyv7.feishu.cn/wiki/YeOSwsG7giLuQxkcDFscUXVZn2f) ，推荐花几个小时读一读，能少走几百小时的弯路。
+
+  基于二语习得理论的日语学习 QQ 群：[点此链接加入](https://qm.qq.com/q/Iy7QuEz5WQ)（群号 `830058869`）。
 
 - `Z` 的语言学习论坛： [Campfirium](https://campfirium.info)。
 
